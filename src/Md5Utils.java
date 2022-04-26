@@ -4,7 +4,6 @@ import java.security.MessageDigest;
 
 /**
  * @Description:
- * @Package com.apexsoft.crm.workflow.utils.encrypt
  * @Author Zhai Quanjiang
  * @Date 2022/4/8 11:32
  * @Version: V1.0
